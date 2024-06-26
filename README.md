@@ -1,6 +1,7 @@
 # Pagina de testimonios en React
 
-Este es un proyecto sencillo de una pagina de testimonios desarrollada en React.
+Este es un proyecto sencillo de una pagina de testimonios desarrollada en React, se modificaron las imagenes y se añadió movimiento entre cada testimonio.
+
 
 ## Instalación
 
