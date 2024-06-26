@@ -19,6 +19,5 @@ Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina.
     ```
    
 
-3. **link en vivo**
-   https://camilomunozal.github.io/contador-de-clicks/
-
+3. **link en vivo**[
+https://relaxed-kheer-d32a3a.netlify.app/
